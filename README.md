@@ -41,8 +41,8 @@ RestoranApp/</br>
     git clone https://github.com/ilhamwahyuj/RestoranApp
  2. Masuk folder
     cd RestoranApp
- 3. Compile & jalankan
-    javac Main.java
+ 3. Compile & jalankan</br>
+    javac Main.java</br>
     java Main
 
     
